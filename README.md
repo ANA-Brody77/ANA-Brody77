@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ANA-Brody77
 - 👀 I’m interested in hardware design
-- 🌱 I’m currently learning writing firmware
+- 🌱 I’m currently learning to write firmware
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: Brody.Jackson@Anantak.com
                       Cell: (214) 609-2587
